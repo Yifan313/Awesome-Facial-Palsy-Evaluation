@@ -22,4 +22,4 @@ This repository provides an overview of selected key publications on AI-based fa
 |:-:|:-:|:-:|:-:|:-:|-|
 |YFP|2018|32 videos|21 patients|YouTub|[Hierarchical network for facial palsy detection](https://arxiv.org/abs/1901.08971)|
 |MEEI|2020|60 videos and 480 imagess|9 healthy subjects and 51 patientss|Lab|[The spectrum of facial palsy: The MEEI facial palsy photo and video standard set](https://blog.research.google/2019/09/contributing-datato-deepfake-detection.html)|
-|AFLFP|2023|5,632 images|88 subjects|Lab|[AFLFP: A database with annotated facial landmarks for facial palsy](https://arxiv.org/abs/1910.01717|
+|AFLFP|2023|5,632 images|88 subjects|Lab|[AFLFP: A database with annotated facial landmarks for facial palsy](https://arxiv.org/abs/1910.01717)|
