@@ -18,11 +18,11 @@ This repository provides an overview of selected key publications on AI-based Fa
 - [Machine Learning Approaches for FPE](#machine-learning-approaches-for-fpe)
   - [Appearance Feature-based Approaches](#appearance-feature-based-approaches)
   - [Geometric Feature-based Approaches](#geometric-feature-based-approaches)
-  - [System Applications](#ml-system-applications)
+  - [ML System Applications](#ml-system-applications)
 - [Deep Learning Approaches for FPE](#deep-learning-approaches-for-fpe)
   - [Single-frame Based Approaches](#single-frame-based-approaches)
   - [Multi-frame Based Approaches](#multi-frame-based-approaches)
-  - [System Applications](#dl-system-applications)
+  - [DL System Applications](#dl-system-applications)
 ---
 ## Facial Palsy Databases
 |Database|Year|Samples|Subject|Source|Paper|
@@ -36,15 +36,15 @@ This repository provides an overview of selected key publications on AI-based Fa
 ### Appearance Feature-based Approaches
 1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
 ### Geometric Feature-based Approaches
-1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
-### System Applications
-1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
+xxx
+### ML System Applications
+xxx
 
 ---
 ## Deep Learning Approaches for FPE
 ### Single-frame Based Approaches
-1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
+xxx
 ### Multi-frame Based Approaches
-1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
-### System Applications
-1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
+xxx
+### DL System Applications
+xxx
