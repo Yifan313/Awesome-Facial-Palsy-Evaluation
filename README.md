@@ -35,6 +35,7 @@ This repository provides an overview of selected key publications on AI-based Fa
 ## Machine Learning Approaches for FPE
 ### Appearance Feature-based Approaches
 1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
+2. \[2014\] Automatic recognition of facial movement for paralyzed face [Paper](https://doi.org/10.3233/BME-141093)
 ### Geometric Feature-based Approaches
 xxx
 ### ML System Applications
