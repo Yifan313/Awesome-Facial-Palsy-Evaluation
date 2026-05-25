@@ -1,4 +1,4 @@
-# Awesome Facial Palsy Evaluation !
+# Awesome Facial Palsy Evaluation
 
 This repository provides an overview of selected key publications on AI-based facial palsy evaluation from 2008 to 2024, as elaborated in the following survey.
 ```
