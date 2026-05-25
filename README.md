@@ -12,3 +12,6 @@ This repository provides an overview of selected key publications on AI-based fa
   publisher={IEEE}
 }
 ```
+## Content
+---
+- [Facial Palsy Datasets](#facial-palsy-datasets)
