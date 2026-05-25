@@ -15,12 +15,14 @@ This repository provides an overview of selected key publications on AI-based Fa
 ## Content
 ---
 - [Facial Palsy Databases](#facial-palsy-databases)
-- [Machine Learning Approaches for FPE](#machine-learning-approaches-for-FPE)
+- [Machine Learning Approaches for FPE](#machine-learning-approaches-for-fpe)
   - [Appearance Feature-based Approaches](#appearance-feature-based-approaches)
   - [Geometric Feature-based Approaches](#geometric-feature-based-approaches)
-- [Deep Learning Approaches for FPE](#deep-learning-approaches-for-FPE)
+  - [System Applications](#ml-system-applications)
+- [Deep Learning Approaches for FPE](#deep-learning-approaches-for-fpe)
   - [Single-frame Based Approaches](#single-frame-based-approaches)
   - [Multi-frame Based Approaches](#multi-frame-based-approaches)
+  - [System Applications](#dl-system-applications)
 ---
 ## Facial Palsy Databases
 |Database|Year|Samples|Subject|Source|Paper|
