@@ -34,3 +34,4 @@ This repository provides an overview of selected key publications on AI-based Fa
 ---
 ## Machine Learning Approaches for FPE
 ### Appearance Feature-based Approaches
+1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
