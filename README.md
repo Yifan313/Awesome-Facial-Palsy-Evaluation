@@ -1,6 +1,6 @@
 # Awesome Facial Palsy Evaluation
 
-This repository provides an overview of selected key publications on AI-based facial palsy evaluation from 2008 to 2024, as elaborated in the following survey.
+This repository provides an overview of selected key publications on AI-based Facial Palsy Evaluation (FPE) from 2008 to 2024, as elaborated in the following survey.
 ```
 @article{zhang2024artificial,
   title={Artificial intelligence-based facial palsy evaluation: a survey},
@@ -15,7 +15,12 @@ This repository provides an overview of selected key publications on AI-based fa
 ## Content
 ---
 - [Facial Palsy Databases](#facial-palsy-databases)
-
+- [Machine Learning Approaches for FPE](#machine-learning-approaches-for-FPE)
+  - [Appearance Feature-based Approaches](#appearance-feature-based-approaches)
+  - [Geometric Feature-based Approaches](#geometric-feature-based-approaches)
+- [Deep Learning Approaches for FPE](#deep-learning-approaches-for-FPE)
+  - [Single-frame Based Approaches](#single-frame-based-approaches)
+  - [Multi-frame Based Approaches](#multi-frame-based-approaches)
 ---
 ## Facial Palsy Databases
 |Database|Year|Samples|Subject|Source|Paper|
