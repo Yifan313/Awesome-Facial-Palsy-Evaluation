@@ -12,6 +12,7 @@ This repository provides an overview of selected key publications on AI-based Fa
   publisher={IEEE}
 }
 ```
+
 ---
 ## Content
 - [Facial Palsy Databases](#facial-palsy-databases)
@@ -23,6 +24,7 @@ This repository provides an overview of selected key publications on AI-based Fa
   - [Single-frame Based Approaches](#single-frame-based-approaches)
   - [Multi-frame Based Approaches](#multi-frame-based-approaches)
   - [DL System Applications](#dl-system-applications)
+
 ---
 ## Facial Palsy Databases
 |Database|Year|Samples|Subject|Source|Paper|
