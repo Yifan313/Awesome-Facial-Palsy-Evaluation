@@ -93,8 +93,8 @@ If you find our survey is helpful in your research, please consider citing our p
 6. \[2022\] Advanced Analysis of 3D Kinect Data: Supervised Classification of Facial Nerve Function via Parallel Convolutional Neural Networks [Paper](https://www.mdpi.com/2076-3417/12/12/5902)
 7. \[2024\] Facial Paralysis Symptom Detection Based on Facial Action Unit [Paper](https://ieeexplore.ieee.org/abstract/document/10496057)
 ### DL System Applications
-1. \[2023\] Computer Vision System for Facial Palsy Detection [Paper](https://journal.mtu.edu.iq/index.php/MTU/article/view/1133)
+1. \[2020\] Smart Prediction System for Facial Paralysis [Paper](https://ieeexplore.ieee.org/abstract/document/9102600)
 2. \[2022\] A Ready-to-Use Grading Tool for Facial Palsy Examiners—Automated Grading System in Facial Palsy Patients Made Easy [Paper](https://www.mdpi.com/2075-4426/12/10/1739)
 3. \[2022\] Towards a Reliable and Rapid Automated Grading System in Facial Palsy Patients: Facial Palsy Surgery Meets Computer Science [Paper](https://www.mdpi.com/2077-0383/11/17/4998)
-4. \[2023\] Automatic Facial Palsy, Age and Gender Detection Using a Raspberry Pi [Paper](https://www.mdpi.com/2673-7426/3/2/31)
-5. \[2020\] Smart Prediction System for Facial Paralysis [Paper](https://ieeexplore.ieee.org/abstract/document/9102600)
+4. \[2023\] Computer Vision System for Facial Palsy Detection [Paper](https://journal.mtu.edu.iq/index.php/MTU/article/view/1133)
+5. \[2023\] Automatic Facial Palsy, Age and Gender Detection Using a Raspberry Pi [Paper](https://www.mdpi.com/2673-7426/3/2/31)
