@@ -12,8 +12,8 @@ This repository provides an overview of selected key publications on AI-based Fa
   publisher={IEEE}
 }
 ```
-## Content
 ---
+## Content
 - [Facial Palsy Databases](#facial-palsy-databases)
 - [Machine Learning Approaches for FPE](#machine-learning-approaches-for-fpe)
   - [Appearance Feature-based Approaches](#appearance-feature-based-approaches)
