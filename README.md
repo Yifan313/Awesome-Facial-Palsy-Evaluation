@@ -66,7 +66,8 @@ This repository provides an overview of selected key publications on AI-based Fa
 ---
 ## Deep Learning Approaches for FPE
 ### Single-frame Based Approaches
-xxx
+1. \[2021\] Few-Shot Learning with a Novel Voronoi Tessellation-Based Image Augmentation Method for Facial Palsy Detection [Paper](https://www.mdpi.com/2079-9292/10/8/978)
+2. \[2016\] Automatic feature point detection using deep convolutional networks for quantitative evaluation of facial paralysis [Paper](https://ieeexplore.ieee.org/abstract/document/7852821)
 ### Multi-frame Based Approaches
 xxx
 ### DL System Applications
