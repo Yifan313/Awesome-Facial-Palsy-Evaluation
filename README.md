@@ -12,6 +12,7 @@ This repository provides an overview of selected key publications on AI-based Fa
   publisher={IEEE}
 }
 ```
+If you find our survey is helpful in your research, please consider citing our paper😺
 
 ---
 ## Content
@@ -84,6 +85,12 @@ This repository provides an overview of selected key publications on AI-based Fa
 16. \[2023\] Deep learning-driven diagnosis: A multi-task approach for segmenting stroke and Bell's palsy [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323005642)
 17. \[2024\] Intelligent Bell facial paralysis assessment: a facial recognition model using improved SSD network [Paper](https://www.nature.com/articles/s41598-024-63478-x)
 ### Multi-frame Based Approaches
-xxx
+1. \[2019\] 3DPalsyNet: A Facial Palsy Grading and Motion Recognition Framework Using Fully 3D Convolutional Neural Networks [Paper](https://ieeexplore.ieee.org/abstract/document/8811497)
+2. \[2019\] Automatic Degree Evaluation of Facial Nerve Paralysis Based on Triple-stream Long Short Term Memory [Paper](https://dl.acm.org/doi/abs/10.1145/3364836.3364838)
+3. \[2020\] Region Based Parallel Hierarchy Convolutional Neural Network for Automatic Facial Nerve Paralysis Evaluation [Paper](https://ieeexplore.ieee.org/abstract/document/9186079)
+4. \[2020\] Automatic evaluation of facial nerve paralysis by dual-path LSTM with deep differentiated network [Paper](https://www.sciencedirect.com/science/article/pii/S0925231220300412)
+5. \[2022\] Automatic Facial Paralysis Estimation with Facial Action Units [Paper](https://arxiv.org/pdf/2203.01800)
+6. \[2022\] Advanced Analysis of 3D Kinect Data: Supervised Classification of Facial Nerve Function via Parallel Convolutional Neural Networks [Paper](https://www.mdpi.com/2076-3417/12/12/5902)
+7. \[2024\] Facial Paralysis Symptom Detection Based on Facial Action Unit [Paper](https://ieeexplore.ieee.org/abstract/document/10496057)
 ### DL System Applications
 xxx
