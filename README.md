@@ -1,6 +1,6 @@
 # Awesome Facial Palsy Evaluation
 
-This repository provides an overview of selected key publications on AI-based Facial Palsy Evaluation (FPE) from 2008 to 2024, as elaborated in the following survey.
+This repository provides an overview of selected key publications on AI-based Facial Palsy Evaluation (FPE) **from 2008 to 2024**, as elaborated in the following survey.
 ```
 @article{zhang2024artificial,
   title={Artificial intelligence-based facial palsy evaluation: a survey},
@@ -12,7 +12,7 @@ This repository provides an overview of selected key publications on AI-based Fa
   publisher={IEEE}
 }
 ```
-If you find our survey is helpful in your research, please consider citing our paper😺.
+If you find our survey helpful for your research, please consider citing our paper 😊.
 
 ---
 ## Content
