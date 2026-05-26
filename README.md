@@ -43,7 +43,17 @@ This repository provides an overview of selected key publications on AI-based Fa
 7. \[2016\] Evaluation of Facial Paralysis Based on Spatial Features of Filtered Images [Paper](https://doi.org/10.17706/ijbbb.2016.6.1.1-8)
 8. \[2016\] Quantitative analysis of facial paralysis based on limited-orientation modified circular Gabor filters [Paper](https://ieeexplore.ieee.org/abstract/document/7899658)
 ### Geometric Feature-based Approaches
-xxx
+1. \[2021\] Facial Paralysis Detection on Images Using Key Point Analysis [Paper](https://www.mdpi.com/2076-3417/11/5/2435)
+2. \[2016\] Efficient quantitative assessment of facial paralysis using iris segmentation and active contour-based key points detection with hybrid classifier [Paper](https://link.springer.com/article/10.1186/s12880-016-0117-0)
+3. \[2018\] An Unobtrusive Computerized Assessment Framework for Unilateral Peripheral Facial Paralysis [Paper](https://ieeexplore.ieee.org/abstract/document/7933175)
+4. \[2022\] Automatic Facial Palsy Diagnosis as a Classification Problem Using Regional Information Extracted from a Photograph [Paper](https://www.mdpi.com/2075-4418/12/7/1528)
+5. \[2022\] Automatic Analysis of Asymmetry in Facial Paralysis Patients Using Landmark-Based Measures [Paper](https://journals.sagepub.com/doi/abs/10.1089/fpsam.2021.0247)
+6. \[2022\] SVM and Logistic Regression for Facial Palsy Detection Utilizing Facial Landmark Features [Paper](https://dl.acm.org/doi/abs/10.1145/3549206.3549216)
+7. \[2021\] Automatic Assessment of Facial Paralysis Based on Facial Landmarks [Paper](https://ieeexplore.ieee.org/abstract/document/9520746)
+8. \[2016\] Quantitative Assessment of Facial Paralysis Based on Spatiotemporal Features [Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2015EDP7082/_p)
+9. \[2010\] An image based quantitative evaluation method for Facial Paralysis [Paper](https://ieeexplore.ieee.org/abstract/document/5542829)
+10. \[2015\] Evaluation and Severity Classification of Facial Paralysis using Salient Point Selection Algorithm [Paper](https://www.researchgate.net/profile/Padma-S-2/publication/283040192_Evaluation_and_Severity_Classification_of_Facial_Paralysis_using_Salient_Point_Selection_Algorithm/links/5f4766db92851c6cfde52cb8/Evaluation-and-Severity-Classification-of-Facial-Paralysis-using-Salient-Point-Selection-Algorithm.pdf)
+11. \[2022\] Towards an Automatic Diagnosis of Peripheral and Central Palsy Using Machine Learning on Facial Features [Paper](https://arxiv.org/abs/2201.11852)
 ### ML System Applications
 xxx
 
