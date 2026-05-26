@@ -36,12 +36,12 @@ This repository provides an overview of selected key publications on AI-based Fa
 ### Appearance Feature-based Approaches
 1. \[2009\] Quantitative Analysis of Facial Paralysis Using Local Binary Patterns in Biomedical Videos [Paper](https://ieeexplore.ieee.org/abstract/document/4806065)
 2. \[2014\] Automatic recognition of facial movement for paralyzed face [Paper](https://doi.org/10.3233/BME-141093)
-3. \[2016\] Automatic evaluation of the degree of facial nerve paralysis [Paper](https://link.springer.com/article/10.1007/s11042-015-2696-0)
-4. \[2016\] A Two-Stage Method for Assessing Facial Paralysis Severity by Fusing Multiple Classifiers [Paper](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_26)
-5. \[2016\] Evaluation of Facial Paralysis Based on Spatial Features of Filtered Images [Paper](https://doi.org/10.17706/ijbbb.2016.6.1.1-8)
-6. \[2014\] Quantitative assessment of facial paralysis using local binary patterns and Gabor filters [Paper](https://dl.acm.org/doi/abs/10.1145/2676585.2676607)
-7. \[2016\] Quantitative analysis of facial paralysis based on limited-orientation modified circular Gabor filters [Paper](https://ieeexplore.ieee.org/abstract/document/7899658)
-8. \[2015\] Quantitative analysis of facial paralysis based on filters of concentric modulation [Paper](https://ieeexplore.ieee.org/abstract/document/7382213)
+3. \[2014\] Quantitative assessment of facial paralysis using local binary patterns and Gabor filters [Paper](https://dl.acm.org/doi/abs/10.1145/2676585.2676607)
+4. \[2015\] Quantitative analysis of facial paralysis based on filters of concentric modulation [Paper](https://ieeexplore.ieee.org/abstract/document/7382213)
+5. \[2016\] Automatic evaluation of the degree of facial nerve paralysis [Paper](https://link.springer.com/article/10.1007/s11042-015-2696-0)
+6. \[2016\] A Two-Stage Method for Assessing Facial Paralysis Severity by Fusing Multiple Classifiers [Paper](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_26)
+7. \[2016\] Evaluation of Facial Paralysis Based on Spatial Features of Filtered Images [Paper](https://doi.org/10.17706/ijbbb.2016.6.1.1-8)
+8. \[2016\] Quantitative analysis of facial paralysis based on limited-orientation modified circular Gabor filters [Paper](https://ieeexplore.ieee.org/abstract/document/7899658)
 ### Geometric Feature-based Approaches
 xxx
 ### ML System Applications
