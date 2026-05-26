@@ -55,7 +55,11 @@ This repository provides an overview of selected key publications on AI-based Fa
 10. \[2022\] SVM and Logistic Regression for Facial Palsy Detection Utilizing Facial Landmark Features [Paper](https://dl.acm.org/doi/abs/10.1145/3549206.3549216)
 11. \[2022\] Towards an Automatic Diagnosis of Peripheral and Central Palsy Using Machine Learning on Facial Features [Paper](https://arxiv.org/abs/2201.11852) 
 ### ML System Applications
-xxx
+1. \[2014\] Mobile Application for Diagnosis of Facial Palsy [Paper](https://d1wqtxts1xzle7.cloudfront.net/72578087/Mobile_Application_for_Diagnosis_of_Faci20211014-24802-1ueo7l.pdf?1738439566=&response-content-disposition=inline%3B+filename%3DMobile_Application_for_Diagnosis_of_Faci.pdf&Expires=1779764877&Signature=Kql8nKEAbWyVQNveyElEvvwFW2VK6~9U~RNv2pulkKrb3ArfmuWf71-E8eG3lb3x4WYFG1foMPVEgLRVmGlNohF1HBOUcOSOnpl3abRS~5Xugd4sppsN4IZVRMNvPKegfAMdMwG1r-R0jfRjeWRP~A-QjktZ3ugbCiI23iPFp3lg~0tiJp36G7mB6sHjEqVAn38NdOjNROC0QmqKowPudxgXPeZPQaJDJGZ4D-nL8RvGUq4nVYdisbP7~gHSlFgz1r1hjiNQhklok~KkCNEXyjJz1SohYBow1YOP6i2-im1xWaOS3G1LuF~0ZOXBx3mpTpA~KBWgSQKwDXRnbc9cLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+2. \[2015\] A Smartphone-Based Automatic Diagnosis System for Facial Nerve Palsy [Paper](https://www.mdpi.com/1424-8220/15/10/26756#Experiment)
+3. \[2021\] The Auto-eFACE: Machine Learning–Enhanced Program Yields Automated Facial Palsy Assessment Tool [Paper](https://journals.lww.com/plasreconsurg/abstract/2021/02000/the_auto_eface__machine_learning_enhanced_program.30.aspx)
+4. \[2018\] A Machine Learning Approach for Automated Facial Measurements in Facial Palsy [Paper](https://journals.sagepub.com/doi/abs/10.1001/jamafacial.2018.0030)
+5. \[2023\] The Feasibility of An Automatical Facial Evaluation System Providing Objective and Reliable Results for Facial Palsy [Paper](https://ieeexplore.ieee.org/abstract/document/10077606)
 
 ---
 ## Deep Learning Approaches for FPE
